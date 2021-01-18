@@ -5,7 +5,7 @@ This repository contains the code and results for the following paper:
 [Shuo Chen](https://staff.fnwi.uva.nl/s.chen3/), 
 [Fei Zhou](https://scholar.google.com/citations?user=v8wZwZEAAAAJ), 
 [Qingmin Liao](http://www.sz.tsinghua.edu.cn/zg3/519.jhtml) \
-[VCIP 2016]
+VCIP 2016
 
 
 If you find this code useful in your research please cite:
